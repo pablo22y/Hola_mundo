@@ -5,3 +5,5 @@ mi primer repositorio github
 I like 🎮, 🍕, and 🎵
 
 I dislike 🏖️, ☀️ and 🕷️
+
+i love 🏀 and 📽️
